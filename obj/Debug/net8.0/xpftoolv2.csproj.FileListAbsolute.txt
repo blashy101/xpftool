@@ -1,0 +1,14 @@
+C:\Users\zeckd\source\repos\xpftoolv2\bin\Debug\net8.0\xpftoolv2.exe
+C:\Users\zeckd\source\repos\xpftoolv2\bin\Debug\net8.0\xpftoolv2.deps.json
+C:\Users\zeckd\source\repos\xpftoolv2\bin\Debug\net8.0\xpftoolv2.runtimeconfig.json
+C:\Users\zeckd\source\repos\xpftoolv2\bin\Debug\net8.0\xpftoolv2.dll
+C:\Users\zeckd\source\repos\xpftoolv2\bin\Debug\net8.0\xpftoolv2.pdb
+C:\Users\zeckd\source\repos\xpftoolv2\obj\Debug\net8.0\xpftoolv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeckd\source\repos\xpftoolv2\obj\Debug\net8.0\xpftoolv2.AssemblyInfoInputs.cache
+C:\Users\zeckd\source\repos\xpftoolv2\obj\Debug\net8.0\xpftoolv2.AssemblyInfo.cs
+C:\Users\zeckd\source\repos\xpftoolv2\obj\Debug\net8.0\xpftoolv2.csproj.CoreCompileInputs.cache
+C:\Users\zeckd\source\repos\xpftoolv2\obj\Debug\net8.0\xpftoolv2.dll
+C:\Users\zeckd\source\repos\xpftoolv2\obj\Debug\net8.0\refint\xpftoolv2.dll
+C:\Users\zeckd\source\repos\xpftoolv2\obj\Debug\net8.0\xpftoolv2.pdb
+C:\Users\zeckd\source\repos\xpftoolv2\obj\Debug\net8.0\xpftoolv2.genruntimeconfig.cache
+C:\Users\zeckd\source\repos\xpftoolv2\obj\Debug\net8.0\ref\xpftoolv2.dll
